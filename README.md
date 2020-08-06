@@ -12,6 +12,6 @@
 - CSS
 
 
-(https://github.com/YKalashnikov/Activision/blob/master/github__assets/1%20Desktop.png)
+![](https://github.com/YKalashnikov/Activision/blob/master/github__assets/1%20Desktop.png)
 
-(https://github.com/YKalashnikov/Activision/blob/master/github__assets/2%20Mobile.png)
+![](https://github.com/YKalashnikov/Activision/blob/master/github__assets/2%20Mobile.png)
