@@ -29,14 +29,16 @@ background-size: cover;
   text-transform: uppercase;
   cursor: pointer;
   border: 1px solid white;
+  border-radius: 5px;
   outline:none;
   font-weight: bold;
-  background-image: linear-gradient(rgb(201, 201, 199) 10%, rgb(232, 230, 230));
+  background-color: rgba(255, 255, 255, 0.5);
   color:#3B4044;
 }
 
 .btn:hover {
   outline:none;
+  background-color: rgba(255, 255, 255, 0.884);
   transition: all 0.5s ease 0s;
 }
 
